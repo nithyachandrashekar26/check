@@ -1,0 +1,648 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://purl.stanford.edu/zg171xn2583/iiif/manifest",
+  "@type": "sc:Manifest",
+  "label": "Correspondence (incoming) - G",
+  "attribution": "Public Domain.",
+  "logo": {
+    "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette/full/400,/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "seeAlso": {
+    "@id": "https://purl.stanford.edu/zg171xn2583.mods",
+    "format": "application/mods+xml"
+  },
+  "metadata": [
+    {
+      "label": "Available Online",
+      "value": "<a href='https://purl.stanford.edu/zg171xn2583'>https://purl.stanford.edu/zg171xn2583</a>"
+    },
+    {
+      "label": "Title",
+      "value": "Correspondence (incoming) - G"
+    },
+    {
+      "label": "Contributor",
+      "value": "Stanford, Leland, 1824-1893 (crp Correspondent)"
+    },
+    {
+      "label": "Type",
+      "value": "Text"
+    },
+    {
+      "label": "Type",
+      "value": "correspondence"
+    },
+    {
+      "label": "Date",
+      "value": "1889-1893"
+    },
+    {
+      "label": "Language",
+      "value": "eng English"
+    },
+    {
+      "label": "Format",
+      "value": "correspondence"
+    },
+    {
+      "label": "Format",
+      "value": "image/jpeg"
+    },
+    {
+      "label": "Description",
+      "value": "Gage: 7/2/1890 public opinion of Stanford, political news, Huntington and Crocker; 3/9/1893 [tel] birthday greetings; Gibbons, Cardinal: 3/2/1889 requesting assistance for Mr. James R. Randall; Gibbons, John: 4/13/1891 encloses letter from Fr. Casanova re statue of Fr. Junipero (attached); Greenwood: n.d. poor reception for her lecture in Marysville"
+    },
+    {
+      "label": "Subject",
+      "value": "Stanford University"
+    },
+    {
+      "label": "Subject",
+      "value": "Correspondence"
+    },
+    {
+      "label": "Relation",
+      "value": "Stanford University. Libraries. Department of Special Collections and University Archives SC0033A https://purl.stanford.edu/zg171xn2583"
+    },
+    {
+      "label": "Relation",
+      "value": "Leland Stanford papers, 1840-1896"
+    },
+    {
+      "label": "PublishDate",
+      "value": "2018-03-22T21:11:25Z"
+    }
+  ],
+  "description": "Gage: 7/2/1890 public opinion of Stanford, political news, Huntington and Crocker; 3/9/1893 [tel] birthday greetings; Gibbons, Cardinal: 3/2/1889 requesting assistance for Mr. James R. Randall; Gibbons, John: 4/13/1891 encloses letter from Fr. Casanova re statue of Fr. Junipero (attached); Greenwood: n.d. poor reception for her lecture in Marysville",
+  "thumbnail": {
+    "@id": "https://stacks.stanford.edu/image/iiif/nn909gg2284%2FSC0033A_s2_b02_f02_i001/full/!400,400/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/nn909gg2284%2FSC0033A_s2_b02_f02_i001",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    },
+    "height": 400,
+    "width": 302
+  },
+  "sequences": [
+    {
+      "@id": "https://purl.stanford.edu/zg171xn2583#sequence-1",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/nn909gg2284_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 6578,
+          "width": 4959,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/nn909gg2284/SC0033A_s2_b02_f02_i001.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/nn909gg2284_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/nn909gg2284%2FSC0033A_s2_b02_f02_i001/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6578,
+                "width": 4959,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/nn909gg2284%2FSC0033A_s2_b02_f02_i001",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/nn909gg2284_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/fs794rj7962_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 6458,
+          "width": 4939,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/fs794rj7962/SC0033A_s2_b02_f02_i002.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/fs794rj7962_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/fs794rj7962%2FSC0033A_s2_b02_f02_i002/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6458,
+                "width": 4939,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/fs794rj7962%2FSC0033A_s2_b02_f02_i002",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/fs794rj7962_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/rv895xh5121_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 6458,
+          "width": 4939,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/rv895xh5121/SC0033A_s2_b02_f02_i003.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/rv895xh5121_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/rv895xh5121%2FSC0033A_s2_b02_f02_i003/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6458,
+                "width": 4939,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/rv895xh5121%2FSC0033A_s2_b02_f02_i003",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/rv895xh5121_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/fk360qr9938_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 6458,
+          "width": 4939,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/fk360qr9938/SC0033A_s2_b02_f02_i004.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/fk360qr9938_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/fk360qr9938%2FSC0033A_s2_b02_f02_i004/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6458,
+                "width": 4939,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/fk360qr9938%2FSC0033A_s2_b02_f02_i004",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/fk360qr9938_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/wr705yk6667_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 6458,
+          "width": 4919,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/wr705yk6667/SC0033A_s2_b02_f02_i005.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/wr705yk6667_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/wr705yk6667%2FSC0033A_s2_b02_f02_i005/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6458,
+                "width": 4919,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/wr705yk6667%2FSC0033A_s2_b02_f02_i005",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/wr705yk6667_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/nd968nd2667_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 6418,
+          "width": 4919,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/nd968nd2667/SC0033A_s2_b02_f02_i006.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/nd968nd2667_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/nd968nd2667%2FSC0033A_s2_b02_f02_i006/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6418,
+                "width": 4919,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/nd968nd2667%2FSC0033A_s2_b02_f02_i006",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/nd968nd2667_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/rj699zx6546_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 3088,
+          "width": 4759,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/rj699zx6546/SC0033A_s2_b02_f02_i007.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/rj699zx6546_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/rj699zx6546%2FSC0033A_s2_b02_f02_i007/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3088,
+                "width": 4759,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/rj699zx6546%2FSC0033A_s2_b02_f02_i007",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/rj699zx6546_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/sb876kd8909_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 4813,
+          "width": 2959,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/sb876kd8909/SC0033A_s2_b02_f02_i008.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/sb876kd8909_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sb876kd8909%2FSC0033A_s2_b02_f02_i008/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4813,
+                "width": 2959,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/sb876kd8909%2FSC0033A_s2_b02_f02_i008",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/sb876kd8909_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/hg234sf7196_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 4753,
+          "width": 2959,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/hg234sf7196/SC0033A_s2_b02_f02_i009.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/hg234sf7196_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/hg234sf7196%2FSC0033A_s2_b02_f02_i009/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4753,
+                "width": 2959,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/hg234sf7196%2FSC0033A_s2_b02_f02_i009",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/hg234sf7196_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/by993pc4608_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 4753,
+          "width": 5899,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/by993pc4608/SC0033A_s2_b02_f02_i010.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/by993pc4608_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/by993pc4608%2FSC0033A_s2_b02_f02_i010/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4753,
+                "width": 5899,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/by993pc4608%2FSC0033A_s2_b02_f02_i010",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/by993pc4608_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/jr775tk2420_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 5415,
+          "width": 3399,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/jr775tk2420/SC0033A_s2_b02_f02_i011.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/jr775tk2420_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/jr775tk2420%2FSC0033A_s2_b02_f02_i011/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5415,
+                "width": 3399,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/jr775tk2420%2FSC0033A_s2_b02_f02_i011",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/jr775tk2420_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/nf017zt1332_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 4873,
+          "width": 3000,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/nf017zt1332/SC0033A_s2_b02_f02_i012.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/nf017zt1332_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/nf017zt1332%2FSC0033A_s2_b02_f02_i012/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4873,
+                "width": 3000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/nf017zt1332%2FSC0033A_s2_b02_f02_i012",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/nf017zt1332_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/rc755mt4798_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 4873,
+          "width": 5979,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/rc755mt4798/SC0033A_s2_b02_f02_i013.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/rc755mt4798_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/rc755mt4798%2FSC0033A_s2_b02_f02_i013/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4873,
+                "width": 5979,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/rc755mt4798%2FSC0033A_s2_b02_f02_i013",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/rc755mt4798_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/wc541np2284_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 4873,
+          "width": 2979,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/wc541np2284/SC0033A_s2_b02_f02_i014.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/wc541np2284_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/wc541np2284%2FSC0033A_s2_b02_f02_i014/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4873,
+                "width": 2979,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/wc541np2284%2FSC0033A_s2_b02_f02_i014",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/wc541np2284_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/hk522hd6909_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 5375,
+          "width": 3300,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/hk522hd6909/SC0033A_s2_b02_f02_i015.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/hk522hd6909_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/hk522hd6909%2FSC0033A_s2_b02_f02_i015/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5375,
+                "width": 3300,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/hk522hd6909%2FSC0033A_s2_b02_f02_i015",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/hk522hd6909_1"
+            }
+          ]
+        },
+        {
+          "@id": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/hq362rw1939_1",
+          "@type": "sc:Canvas",
+          "label": "Correspondence (incoming) - G",
+          "height": 5375,
+          "width": 3300,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/hq362rw1939/SC0033A_s2_b02_f02_i016.jp2",
+              "label": "Original source file ()",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/zg171xn2583/iiif/annotation/hq362rw1939_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/hq362rw1939%2FSC0033A_s2_b02_f02_i016/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5375,
+                "width": 3300,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/hq362rw1939%2FSC0033A_s2_b02_f02_i016",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/zg171xn2583/iiif/canvas/hq362rw1939_1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
